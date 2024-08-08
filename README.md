@@ -15,6 +15,10 @@ This project is a discord bot that you can talk to in a discord voice channel.
 - more realistic AI voice
 - better latency
 
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1P4nHMhzhyM/0.jpg)](https://www.youtube.com/watch?v=1P4nHMhzhyM)
+
+
 # Architecture
 
 This has a python flask server that runs an api that the discord bot in C++ can contact. The bot records what you say and has a timer waiting for you to not speak for 2 seconds. 
