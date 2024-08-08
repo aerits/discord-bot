@@ -33,6 +33,7 @@ into PCM audio and then encodes it as opus and sends it to discord to play in th
 C++
 - latest version of D++ (you should compile it)
 - libmpg123
+- nlohmann/json (I have this inside of the project already in the include directory though this is probably not a good idea lmao)
 
 Python
 - edge_tts
