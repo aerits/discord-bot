@@ -3,3 +3,5 @@ src/token.cpp
 build
 __pycache__
 .cache
+.direnv
+token.cpp
